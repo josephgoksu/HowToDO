@@ -6,6 +6,7 @@ Create a virtual environment within the project directory by typing:
 <ul>
 <li>
 sudo apt-get install python-virtualenv
+<br />
 virtualenv -p python3 myvenv
 </li>
 </ul>
