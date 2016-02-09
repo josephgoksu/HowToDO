@@ -5,7 +5,8 @@
 Create a virtual environment within the project directory by typing:
 <ul>
 <li>
-virtualenv newenv
+sudo apt-get install python-virtualenv
+virtualenv -p python3 myvenv
 </li>
 </ul>
 
@@ -24,4 +25,3 @@ To leave your virtual environment, you need to issue the deactivate command from
 deactivate
 </li>
 </ul>
-
